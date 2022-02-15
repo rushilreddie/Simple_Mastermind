@@ -1,0 +1,15 @@
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\obj\Debug\net5.0\Simple_Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\obj\Debug\net5.0\Simple_Mastermind.AssemblyInfoInputs.cache
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\obj\Debug\net5.0\Simple_Mastermind.AssemblyInfo.cs
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\obj\Debug\net5.0\Simple_Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\bin\Debug\net5.0\Simple_Mastermind.exe
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\bin\Debug\net5.0\Simple_Mastermind.deps.json
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\bin\Debug\net5.0\Simple_Mastermind.runtimeconfig.json
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\bin\Debug\net5.0\Simple_Mastermind.runtimeconfig.dev.json
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\bin\Debug\net5.0\Simple_Mastermind.dll
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\bin\Debug\net5.0\ref\Simple_Mastermind.dll
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\bin\Debug\net5.0\Simple_Mastermind.pdb
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\obj\Debug\net5.0\Simple_Mastermind.dll
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\obj\Debug\net5.0\ref\Simple_Mastermind.dll
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\obj\Debug\net5.0\Simple_Mastermind.pdb
+C:\Users\rajar\Desktop\Projects\Simple_Mastermind\Simple_Mastermind\obj\Debug\net5.0\Simple_Mastermind.genruntimeconfig.cache

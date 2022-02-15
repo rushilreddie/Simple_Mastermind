@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQtp0fHOZixiIJWn/D6cZmJ/jObxBspMvOQGSgIwxG7mIyp7ixpFlvDQnWsc7nkf7Xtdyl60pvbWiXu31KmWyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajar\\Desktop\\Projects\\Simple_Mastermind\\Simple_Mastermind\\Simple_Mastermind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
